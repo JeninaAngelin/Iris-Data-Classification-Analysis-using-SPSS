@@ -22,7 +22,3 @@ The Iris dataset is a famous dataset in the field of machine learning and statis
 ## Usage
 
 Feel free to clone this repository and use the provided resources for your own analysis or experimentation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
